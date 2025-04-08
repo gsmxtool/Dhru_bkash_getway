@@ -1,4 +1,4 @@
-# Dhru_bkash_getway
+# Dhru_bkash_gateway
 Easy to Add Bkash payment gateway in Dhru 
 Install System.
 Just main File on the Gateway Folder 
